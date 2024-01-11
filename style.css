@@ -1,0 +1,410 @@
+.navbar-brand span{
+    color:#00b39b
+}
+.navbar-brand h2{
+    color: #9fa5a4;
+}
+.nav-item a:hover {
+    color: #00b39b;
+    cursor: pointer;
+}
+#about{
+    color: #00b39b;
+
+}
+/************end navbar********/
+body{
+    height: 5000px;
+}
+/********section one********/
+.hmd{
+    height: 670px;
+}
+.img img{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+ h1{
+    color: #00b39b;
+    margin-left: 100px;
+
+}
+.bnt{
+    display: flex;
+    margin-left: 100px;
+}
+.bnr{
+       width: 40%;
+        float: left;
+        box-sizing: border-box;
+        justify-content: space-between;
+        margin-top: 30px;
+       
+}
+.card4{
+    width: 90%;
+   display: flex;
+   justify-content: space-around;
+  
+    
+}
+.bnj{
+        width: 25%;
+        height: 300px;
+        float: left;
+        box-sizing: border-box;
+        text-align: center;
+        border-radius: 10px;
+        
+}
+.bnj h3{
+    color: white;
+}
+.bnj i{
+    margin-top: 40px;
+    text-align: end;
+    margin-left: 30px;
+    color: white;
+}
+.bnj p{
+    font-size: 20px;
+    margin-top: 20px;
+    color:white;
+}
+.bnj select{
+    
+    background-color: transparent;
+    text-decoration: underline;
+    border: none;
+
+}
+.bnj .car1{
+    background-color: aqua;
+    height: 300px;
+    border-radius: 10px;
+}
+.bnj .car2{
+    background-color:rgb(35, 35, 196);
+    height: 300px;
+    border-radius: 10px;
+}
+.bnj .car3{
+    background-color: black;
+    height: 320px;
+    border-radius: 10px;
+}
+ /* .bnj .car1 select{
+   
+} */
+.bnj .car2 select{
+    color: white;
+} 
+.bnj .car3 select{
+    color: white;
+}
+.bnj .car1 select{
+    color: white;
+}
+.bnj .car1 select option{
+    background-color: aqua;
+    
+   
+}
+.bnj .car2 select option{
+    background-color: blue;
+    
+   
+}
+.bnj .car3 select option{
+    background-color: black;
+    
+   
+}
+
+
+
+
+ .company2{
+    float: left;
+    box-sizing: border-box;
+    text-align: center;
+ }
+
+
+
+.brand-logo {
+    list-style: none;
+    margin-left: 60px;
+
+}
+
+.brand-logo li {
+    font-size: 16px;
+    display: inline-block;
+    width: 110px;
+    padding-right: 5px;
+    
+    
+   
+}
+
+.brand-logo li:hover img {
+    color: #00b39b;
+}
+#company-slogan {
+    
+    margin-left: 20%;
+}
+
+
+.brand-logo li img {
+    height: 100px;
+    justify-content:space-around;
+    max-width: 50%;
+
+   
+    
+}
+.slogan-text {
+    margin-top: 15px;
+    color: #00b39b;
+    font-size: 1.625em;
+    font-weight: 500;
+}
+
+.hero{
+    background-color: aqua;
+     height: 600px;
+
+}
+.mero{
+    margin-left: 70px;
+    padding-top: 40px;
+}
+.hero{
+    display: flex;
+    justify-content: space-around;
+}
+.part{
+    width: 250px;
+    height: 260px;
+}
+.part i {
+    margin-top: 15px;
+    color: aqua;
+    font-size: 1.625em;
+    
+}
+.parent{
+    
+    display: flex;
+    
+    justify-content: space-around;
+}
+.parent1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 40px;
+
+}
+.parent2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-left: 20px;
+}
+.part{
+    text-align: center;
+}
+/***************section 2*************/
+.text-container {
+    width: 470px;
+    margin: 8% 31%;
+    text-align: center;
+
+}
+
+.text-div {
+    font-size: .875em;
+    line-height: 1.7;
+
+}
+
+.image-section {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 20px;
+    margin: 0% 13% 9%;
+}
+
+.wrapper {
+    width: 309px;
+    height: 345px;
+    border: 1px solid #bbbbbb;
+    border-radius: 5px;
+}
+
+.wrapper img {
+    width: 309px;
+    height: 278px;
+
+}
+
+.city-desc {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.7;
+    margin: 5%;
+}
+
+.seemore-btn {
+
+    border: 0;
+    border-radius: 4px;
+    padding: 10px 10px;
+    margin-left: 29%;
+    background: #3d83df;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+}
+
+.image-section a {
+    text-decoration: none;
+    color: #747474;
+
+}
+/************************section 3**************/
+.cvn {
+    text-align: center;
+}
+.cvn h1{
+    color: rgb(14, 13, 13);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.cvn button{
+    margin-right: 300px;
+}
+.cvn p{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+.cvn p a{
+    text-decoration: none;
+}
+.element{
+
+    display: flex;
+    justify-content: space-around;
+}
+.pictures img{
+    width: 80px;
+    height: 50px;
+}
+.pictures{
+    
+    width: 400px;
+}
+
+
+@media screen and (max-device-width: 800px) { 
+    .nav{
+      
+      display: block;
+      height: 100px;
+      padding: 19px 30px;
+      background-color: white;
+      position:fixed;
+      top:0;
+    }
+    .hmd{
+      margin-top: 150px;
+    }
+    .img{
+      display:block;
+      margin-left: 48%;
+      margin-top:20%;
+    }
+     .hmd h1{
+     
+      font-size: 34px;
+      font-weight: 300;
+      line-height: 44.2px;
+                                     /*Title of section1 */
+      text-align: center;
+      color: #00b39b;
+      font-family:'Work Sans', sans-serif;;
+     } 
+     .slogan-text{
+     
+      font-size: 34px;
+      font-weight: 300;
+      line-height: 44.2px;
+                                     /*Title of section1 */
+      text-align: center;
+      color: #00b39b;
+      font-family:'Work Sans', sans-serif;;
+     } 
+     .card4{
+     
+      font-size: 34px;
+      font-weight: 300;
+      line-height: 44.2px;
+                                     /*Title of section1 */
+      text-align: center;
+      color: #00b39b;
+      font-family:'Work Sans', sans-serif;;
+     } 
+     .element  {
+      display: flex;
+      flex-direction: column;                    /*body of section 2*/
+      height: 250px;
+      padding-top: 50px;
+      font-family: Roboto,Arial,sans-serif;
+      font-weight: 400;
+      color:#747474 ;
+      line-height: 28px;
+    }
+     .hero{
+       margin-top: 150px;
+      height: 1200px;
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      color:white;
+    
+    }
+     .image-section{
+       margin-top: 150px;
+      height: 1200px;
+      display:flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around;
+      color:white;
+    
+    }
+    .image-section {
+      
+       margin-top:50px;
+    }
+
+    .footer{
+
+     border: 1px solid red;
+      display: flex;
+      flex-direction: column;
+      justify-content:space-around;
+      align-items: start;
+                                                                    /* display flex*/
+    
+      
+      }
+    
+     
+  }
